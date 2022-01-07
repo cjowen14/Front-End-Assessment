@@ -16,7 +16,7 @@ function myFavoritePlace(){
 //I couldn't think of a favorite ritual so I changed it to a ritual I do that bothers me
 function myLeastFavoriteRitual(){
     //console.log("I am not sure");
-    alert("My favorite ritual is after getting a kill in any FPS game, I always have to reload my gun. I've paid dearly for that many times.")
+    alert("My least favorite ritual is after getting a kill in any FPS game, I always have to reload my gun. I've paid dearly for that many times.")
 }
 
 
