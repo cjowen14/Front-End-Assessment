@@ -71,7 +71,11 @@ ul{
 
 form>input{
 	text-align: center;
-	margin-left: 14vw;
+	margin-left: 33%;
+}
+
+form>input[type="submit"]{
+	margin-left: 44%;
 }
 
 
